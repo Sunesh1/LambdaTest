@@ -24,7 +24,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class SUNESH_Edge_TEST {
-	public String username="sunesh.patre";
+	public String username="";
 	public String accesskey = "";
 	public RemoteWebDriver driver;
 	public String gridURL = "hub.lambdatest.com";
