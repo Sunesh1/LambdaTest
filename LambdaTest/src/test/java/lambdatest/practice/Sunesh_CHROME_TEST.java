@@ -24,7 +24,7 @@ import org.testng.annotations.Test;
 
 public class Sunesh_CHROME_TEST {
 	public String username="sunesh.patre";
-	public String accesskey = "EAiwJBoW2E4CQFBwu3Qb0NEYsKK8Be74khwnUf203pEaUGgAwO";
+	public String accesskey = "";
 	public RemoteWebDriver driver;
 	public String gridURL = "hub.lambdatest.com";
 	String status;
